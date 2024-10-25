@@ -32,7 +32,7 @@ $ python CNN2021_Regression_DPSGD.py 0 100 0.1 1.5
 $ python CNN2021_Regression_DPSGD.py 1 100 0.1 1.5
 $ python CNN2021_Regression_DPSGD.py 2 100 0.1 1.5
 
-# Evaluate Adam(0)/DPSGD(1)/SGD(2) using the CPT samples (#epoch=100, C=0.1, sigma=1.5)
+# Evaluate Adam(0)/DPSGD(1)/SGD(2) using data_8_3972.csv (#epoch=100, C=0.1, sigma=1.5)
 $ python FCNN_DPSGD.py 0 100 0.1 1.5
 $ python FCNN_DPSGD.py 1 100 0.1 1.5
 $ python FCNN_DPSGD.py 2 100 0.1 1.5
